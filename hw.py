@@ -1,6 +1,6 @@
 """ example for GitHub Actions with Sphinx """
 
-# func
+# hello world function
 def hw():
     """
     do the hello world shizz
