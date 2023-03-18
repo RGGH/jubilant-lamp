@@ -10,3 +10,5 @@
     eg : git remote add origin https://github.com/RGGH/the-new-repo-name.git
     
  - uses `pip install ghp-import`
+ 
+ - uses 'master' not main
