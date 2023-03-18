@@ -1,6 +1,6 @@
 # sphinxdemo
 
-https://github.com/RGGH/ghp2/actions/workflows/sphinx.yml/badge.svg
+![example workflow](https://github.com/RGGH/ghp2/actions/workflows/sphinx.yml/badge.svg
 
 ### https://rggh.github.io/ghp2/
 
