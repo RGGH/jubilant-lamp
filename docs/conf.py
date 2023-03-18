@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'sphinx-gh-pages'
-copyright = '2022, Niket'
-author = 'Niket'
+project = 'sphinxghpages'
+copyright = '2023'
+author = 'moo'
 
 # The full version, including alpha/beta/rc tags
 release = '0.2'
