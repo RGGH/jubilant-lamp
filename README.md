@@ -1,5 +1,7 @@
 # sphinxdemo
 
+https://github.com/RGGH/ghp2/actions/workflows/sphinx.yml/badge.svg
+
 ### https://rggh.github.io/ghp2/
 
 - click settings to enable github pages : https://docs.github.com/en/pages/quickstart
