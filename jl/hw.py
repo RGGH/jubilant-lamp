@@ -1,6 +1,6 @@
 """ example for GitHub Actions with Sphinx """
 
-def hw():
+def hello_world():
     """
     do the hello world shizz
 
@@ -9,7 +9,7 @@ def hw():
     """
     return "hello world!! :) "
 
-def hw2(greeter :str)->str:
+def greeter_msg(greeter :str)->str:
     """
     Custom greeting
 
