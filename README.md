@@ -9,4 +9,4 @@
 - to use this as a base, use : git remote remove origin so you can start a new repo<br>
   eg : git remote add origin https://github.com/RGGH/the-new-repo-name.git
 - uses `pip install ghp-import`
-- uses 'master' not main
+- uses 'master' not main!
