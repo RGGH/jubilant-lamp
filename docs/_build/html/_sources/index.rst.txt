@@ -6,9 +6,6 @@
 Welcome to jl's documentation!
 ==============================
 
-To see how this created, check : 
-https://redandgreen.co.uk/sphinx-to-github-pages-via-github-actions/
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
