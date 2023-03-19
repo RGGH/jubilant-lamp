@@ -1,11 +1,13 @@
 """ example for GitHub Actions with Sphinx """
 
-# hello world function
-def hw():
-    """
-    do the hello world shizz
 
-    :return: Hello World
-    :rtype: String
+def make_w(a : int)->int:
     """
-    return "hello world"
+    Does a calculation with 'a' 
+
+    :param a: represnts 'w'
+    :type a: int
+    :return: a result based on 'a
+    :rtype: int
+    """
+    return a**2.5
