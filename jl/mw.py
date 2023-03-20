@@ -9,5 +9,10 @@ def make_w(a : int)->int:
     :type a: int
     :return: a result based on 'a
     :rtype: int
+    :raises: Value error if parameter entered is not int
     """
-    return a**2.5
+    try:
+        return a**2.5
+    except ValueError:
+        print("require type int.  Try again...")
+
