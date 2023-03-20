@@ -3,7 +3,7 @@ import sys
 sys.path.insert(0, os.path.abspath('../jl'))
 
 project = 'jl'
-copyright = '2022, Mr Moo'
+copyright = '2023, redandgreen.co.uk'
 author = 'Mr Moo'
 release = '0.0.1'
 
