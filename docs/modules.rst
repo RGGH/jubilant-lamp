@@ -7,3 +7,4 @@ jl
    hw
    mw
    lw
+   tests
