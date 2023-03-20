@@ -1,6 +1,6 @@
 """ example for GitHub Actions with Sphinx """
 
-
+# input value raised to the power of 2.5
 def make_w(a : int)->int:
     """
     Does a calculation with 'a' 
